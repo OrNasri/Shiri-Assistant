@@ -3,16 +3,17 @@ Shiri asssistant
 
 youre self AI assistant.
 
-first install the following packages:
-1. pip install requests 
-2. pip install stdiomask 
-3. pip install pyttsx3
+
 
 # how to run it?
-Download/Clone zip file.
-Extract.
-go to the Main.py directory
-open cmd and type python Main.py
+1. first install the following packages:
+  a. pip install requests 
+  b. pip install stdiomask 
+  c. pip install pyttsx3
+2. Download/Clone zip file.
+3. Extract.
+4. go to the Main.py directory
+5. open cmd and type python Main.py
 
 
 
