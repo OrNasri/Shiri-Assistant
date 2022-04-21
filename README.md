@@ -22,7 +22,7 @@ exit - exiting the program.
 youtube - playing vidoe on youtube.
 search google - searching google .
 weather - reading the current weather.
-send mail - send from youre gmail account mail (need to confirm smtp on gmail privacy setting).
+send mail - send from your gmail account mail (need to confirm smtp on gmail privacy setting).
 
 
 Enjoy ;)
