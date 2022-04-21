@@ -1,7 +1,7 @@
 # Shiri-Assistant
 Shiri asssistant
 
-youre self AI assistant.
+your self AI assistant.
 
 # install
 first install the following packages:
